@@ -24,17 +24,17 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Articles and Blog Posts
 
-* 2019-02-21 [Uploading big files with Micronaut and Elastic Beanstalk](https://objectcomputing.com/news/2019/02/21/uploading-big-files-micronaut-and-elastic-beanstalk)
-* 2019-02-20 [How to Setup AWS DynamoDB Accelerator (DAX) with Micronaut](https://medium.com/agorapulse-stories/how-to-setup-aws-dynamodb-accelerator-dax-with-micronaut-5b3ade1e3945)
+* 2019-02-21 [Uploading big files with Micronaut and Elastic Beanstalk](https://objectcomputing.com/news/2019/02/21/uploading-big-files-micronaut-and-elastic-beanstalk) by [OCI](https://twitter.com/objectcomputing)
+* 2019-02-20 [How to Setup AWS DynamoDB Accelerator (DAX) with Micronaut](https://medium.com/agorapulse-stories/how-to-setup-aws-dynamodb-accelerator-dax-with-micronaut-5b3ade1e3945) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2019-02-19 [Kotlin Microservices with Micronaut, Spring Cloud and JPA](https://piotrminkowski.wordpress.com/2019/02/19/kotlin-microservices-with-micronaut-spring-cloud-and-jpa/) by [Piotr Mińkowski](https://twitter.com/piotr_minkowski)
 * 2019-02-18 [Micronaut - Eine Alternative zu Spring](https://www.adesso.de/de/news/blog/micronaut-eine-alternative-zu-spring-4.jsp) (German) by [Thomas Buß](https://twitter.com/_tbuss_)
 * 2019-02-15 [HTTP request rate limiting with Micronaut & Resilience4j](https://blog.98elements.com/http-request-rate-limiting-with-micronaut/) by [Tomek Wójcik](https://twitter.com/tomekwojcik)
 * 2019-02-12 [Getting started with Micronaut: Kotlin, JPA, and JWT](www.jasondl.ee/posts/2019/micronaut-jpa-jwt-kotlin.html) by [Jason Lee](https://twitter.com/jasondlee)
 * 2019-02-07 [JWT authentication with Micronaut](https://blog.98elements.com/jwt-authentication-with-micronaut/) by [Tomek Wójcik](https://twitter.com/tomekwojcik)
-* 2019-01-29 [How to Emulate Event Bus with Micronaut, API Gateway and SNS](https://medium.com/agorapulse-stories/how-to-emulate-event-bus-with-micronaut-api-gateway-and-sns-7a6404461b44)
+* 2019-01-29 [How to Emulate Event Bus with Micronaut, API Gateway and SNS](https://medium.com/agorapulse-stories/how-to-emulate-event-bus-with-micronaut-api-gateway-and-sns-7a6404461b44) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2019-01-25 [Quick Guide to Microservices with Micronaut Framework](https://piotrminkowski.wordpress.com/2019/01/25/quick-guide-to-microservices-with-micronaut-framework/) by [Piotr Mińkowski](https://twitter.com/piotr_minkowski)
 * 2019-01-23 [Micronaut Microservices Framework: Introduction](https://blog.codecentric.de/en/2019/01/micronaut-microservices/) by [Andrey Vetlugin](https://twitter.com/avetlugin)
-* 2019-01-22 [How to Create WebSocket Backend with API Gateway and Micronaut](https://medium.com/agorapulse-stories/how-to-create-websocket-backend-with-api-gateway-and-micronaut-20c6683f5916)
+* 2019-01-22 [How to Create WebSocket Backend with API Gateway and Micronaut](https://medium.com/agorapulse-stories/how-to-create-websocket-backend-with-api-gateway-and-micronaut-20c6683f5916) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2019-01-09 [How to Mock Micronaut Beans in Tests](https://medium.com/agorapulse-stories/how-to-mock-micronaut-beans-in-tests-eaba6d20de70) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2018-12-07 [Introduction to Micronaut Framework](https://www.baeldung.com/micronaut) by [Michael Pratt](https://github.com/michael-pratt)
 * 2018-12-04 [Micronaut für zeitgemäße Webanwendungen](https://www.heise.de/developer/artikel/Micronaut-fuer-zeitgemaesse-Webanwendungen-4237756.html?seite=all) (German) by [Jonas Havers](https://twitter.com/JonasHavers)
@@ -48,7 +48,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * 2018-10-23 [Micronaut für Cloud-native JVM-Microservices](https://www.heise.de/developer/artikel/Micronaut-fuer-Cloud-native-JVM-Microservices-4198374.html?seite=all) (German) by [Jonas Havers](https://twitter.com/JonasHavers)
 * 2018-10-19 [The Road to Micronaut 1.0: A JVM-Based Full-Stack Framework](https://www.infoq.com/news/2018/10/the-road-to-micronaut-1.0) by [Michael Redlich](https://twitter.com/mpredli/)
 * 2018-10-05 [Micronaut Tutorial: How to Build Microservices with This JVM-Based Framework](https://www.infoq.com/articles/micronaut-tutorial-microservices-jvm) by [Sergio del Amo](https://twitter.com/sdelamo)
-* 2018-10-04 [How to Create a Library Suitable for Grails with Micronaut](https://medium.com/agorapulse-stories/how-to-create-library-suitable-for-grails-with-micronaut-3485329fd7e6)
+* 2018-10-04 [How to Create a Library Suitable for Grails with Micronaut](https://medium.com/agorapulse-stories/how-to-create-library-suitable-for-grails-with-micronaut-3485329fd7e6) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2018-10-03 [Micronaut Mastery: Configuration Property Name Is Lowercased And Hyphen Separated](http://mrhaki.blogspot.com/2018/10/micronaut-mastery-configuration.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
 * 2018-10-02 [Micronaut Mastery: Consuming Server-Sent Events (SSE)](http://mrhaki.blogspot.com/2018/10/micronaut-mastery-consuming-server-sent.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
 * 2018-09-30 [Micronaut Mastery: Running Code On Startup](http://mrhaki.blogspot.com/2018/09/micronaut-mastery-running-code-on.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
@@ -71,8 +71,8 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * 2018-07-01 [Setting up your microservice with Micronaut!](https://medium.com/liferay-engineering-brazil/setting-up-your-microservice-with-micronaut-fc3e2d6322cd) by [Jeyvison Nascimento](https://twitter.com/jeyandrade)
 * 2018-06-24 [Building microservices with Micronaut (Part II)](https://mfarache.github.io/mfarache/Traceability-microservices-Micronoaut/) by [Mauricio Farache](https://twitter.com/mahou5x)
 * 2018-06-13 [Building microservices with Micronaut (Part I)](https://mfarache.github.io/mfarache/Building-microservices-Micronoaut/) by [Mauricio Farache](https://twitter.com/mahou5x)
-* 2018-05-31 [How to prepare test data in Micronaut with Dru](https://medium.com/agorapulse-stories/how-to-prepare-test-data-in-micronaut-with-dru-9b6e6550f260)
-* 2018-05-30 [How to test Micronaut with Gru?](https://medium.com/agorapulse-stories/how-to-test-micronaut-with-gru-9ef8f8093ecb)
+* 2018-05-31 [How to prepare test data in Micronaut with Dru](https://medium.com/agorapulse-stories/how-to-prepare-test-data-in-micronaut-with-dru-9b6e6550f260) by [Vladimír Oraný](https://twitter.com/musketyr)
+* 2018-05-30 [How to test Micronaut with Gru?](https://medium.com/agorapulse-stories/how-to-test-micronaut-with-gru-9ef8f8093ecb) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2018-05-30 [Getting started with Micronaut](https://jonas-havers.de/articles/getting-started-with-micronaut/) by [Jonas Havers](https://twitter.com/JonasHavers)
 
 # Podcasts
@@ -102,7 +102,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # GitHub Projects
 
-* [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) by OCI
+* [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) by [OCI](https://twitter.com/objectcomputing)
 * [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) by [@asc-lab](https://github.com/asc-lab)
 * [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) by [@piomin](https://github.com/piomin)
 * [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) by [@JonasHavers](https://github.com/JonasHavers)
