@@ -13,7 +13,7 @@ Thanks to every [contributor](https://github.com/JonasHavers/awesome-micronaut/g
 Micronaut is a modern, JVM-based, full stack microservices framework designed for building modular, easily testable microservice applications.
 
 * Official Website: http://micronaut.io/
-* User Guide: https://docs.micronaut.io/latest/guide/index.html
+* Documentation: https://micronaut.io/documentation.html
 * Micronaut Guides: https://guides.micronaut.io/index.html
 * FAQ: https://micronaut.io/faq.html
 * Github: https://github.com/micronaut-projects/
