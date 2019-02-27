@@ -36,6 +36,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * 2019-01-23 [Micronaut Microservices Framework: Introduction](https://blog.codecentric.de/en/2019/01/micronaut-microservices/) by [Andrey Vetlugin](https://twitter.com/avetlugin)
 * 2019-01-22 [How to Create WebSocket Backend with API Gateway and Micronaut](https://medium.com/agorapulse-stories/how-to-create-websocket-backend-with-api-gateway-and-micronaut-20c6683f5916) by [Vladimír Oraný](https://twitter.com/musketyr)
 * 2019-01-09 [How to Mock Micronaut Beans in Tests](https://medium.com/agorapulse-stories/how-to-mock-micronaut-beans-in-tests-eaba6d20de70) by [Vladimír Oraný](https://twitter.com/musketyr)
+* 2018-12-31 [Micronaut for Spring Allows Spring Boot Apps to Run as Micronaut Apps](https://www.infoq.com/news/2018/12/micronaut-for-spring-graalvm) by [Michael Redlich](https://twitter.com/mpredli/)
 * 2018-12-07 [Introduction to Micronaut Framework](https://www.baeldung.com/micronaut) by [Michael Pratt](https://github.com/michael-pratt)
 * 2018-12-04 [Micronaut für zeitgemäße Webanwendungen](https://www.heise.de/developer/artikel/Micronaut-fuer-zeitgemaesse-Webanwendungen-4237756.html?seite=all) (German) by [Jonas Havers](https://twitter.com/JonasHavers)
 * 2018-11-13 [Spring Boot to Micronaut with Ahead-of-Time Compilation](https://objectcomputing.com/news/2018/11/13/spring-boot-micronaut-ahead-time-compilation) by [Graeme Rocher](https://twitter.com/graemerocher)
