@@ -111,4 +111,4 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) by [@piomin](https://github.com/piomin)
 * [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) by [@JonasHavers](https://github.com/JonasHavers)
 * [Agorapulse Micronaut Libraries](https://github.com/agorapulse/micronaut-libraries) by [@agorapulse](https://github.com/agorapulse)
-* [Micronaut beer microservices](https://github.com/mfarache/micronaut-ms) by [@mfarache](https://github.com/mfarache/micronaut-ms)
+* [Micronaut beer microservices](https://github.com/mfarache/micronaut-ms) by [@mfarache](https://github.com/mfarache)
