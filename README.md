@@ -94,6 +94,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * 2018-12-12 [Player Two Ready: Micronaut, a Spring Boot competitor](https://www.youtube.com/watch?v=epOZvEtyF84) by [Andrew Petryk](https://twitter.com/ipreferespresso) at DevoxxUA 2018
 * 2018-12-01 [Reactive microservices with Micronaut](https://www.youtube.com/watch?v=10OBZINvwRA) by [Álvaro Sánchez-Mariscal](https://twitter.com/alvaro_sanchez) at GR8Conf 2018
 * 2018-12-01 [Launching the Micro Future: Groovy, Grails and Micronaut](https://www.youtube.com/watch?v=upp3mKVVu9Q) by [Graeme Rocher](https://twitter.com/graemerocher) at GR8Conf 2018
+* 2018-11-15 [An Introduction To Micronaut](http://usergroup.tv/videos/an-introduction-to-micronaut) by [Jeff Scott Brown](https://twitter.com/JeffScottBrown) at [Austin Cloud Native Meetup](https://www.meetup.com/Austin-Cloud-Native-Meetup/events/255733015/)
 * 2018-11-15 [Introduction to Micronaut: Lightweight Microservices with Ahead of Time Compilation](https://www.youtube.com/watch?v=P1qp_l5EFic) by [Graeme Rocher](https://twitter.com/graemerocher) at Devoxx Belgium 2018
 * 2018-11-15 [Micronaut in Action!](https://www.youtube.com/watch?v=aBTMn-9PPvM) by [Iván López](https://twitter.com/ilopmar) at Devoxx Belgium 2018
 * 2018-11-13 [Server-less functions with Micronaut](https://www.youtube.com/watch?v=0xnsbelwJQQ) by [Álvaro Sánchez-Mariscal](https://twitter.com/alvaro_sanchez) at Devoxx Belgium 2018
