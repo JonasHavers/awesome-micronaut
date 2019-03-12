@@ -108,9 +108,9 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # GitHub Projects
 
-* [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) by [OCI](https://twitter.com/objectcomputing)
-* [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) by [@asc-lab](https://github.com/asc-lab)
-* [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) by [@piomin](https://github.com/piomin)
-* [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) by [@JonasHavers](https://github.com/JonasHavers)
-* [Agorapulse Micronaut Libraries](https://github.com/agorapulse/micronaut-libraries) by [@agorapulse](https://github.com/agorapulse)
-* [Micronaut beer microservices](https://github.com/mfarache/micronaut-ms) by [@mfarache](https://github.com/mfarache)
+* [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) by [OCI](https://twitter.com/ObjectComputing)
+* [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) by [Altkom Software & Consulting](https://twitter.com/AltkomSC)
+* [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) by [Piotr Mińkowski](https://twitter.com/Piotr_Minkowski)
+* [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) by [Jonas Havers](https://twitter.com/JonasHavers)
+* [Agorapulse Micronaut Libraries](https://github.com/agorapulse/micronaut-libraries) by [Agora Pulse](https://twitter.com/AgoraPulse)
+* [Micronaut beer microservices](https://github.com/mfarache/micronaut-ms) by [Mauricio Farache](https://www.twitter.com/mahou5x)
