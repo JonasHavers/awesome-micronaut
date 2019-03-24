@@ -24,6 +24,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Articles and Blog Posts
 
+* 2019-03-24 [Micronaut Groovy with GORM](https://medium.com/@S1lv3rd3m0n/micronaut-groovy-with-gorm-3a2d0b12e86b) by [Kevin Tan](https://twitter.com/S1lv3rd3m0n)
 * 2019-03-05 [Building Microservices with Micronaut](http://www.javamagazine.mozaicreader.com/MarchApril2019/#&pageSet=23) by [Jonas Havers](https://twitter.com/JonasHavers)
 * 2019-02-21 [Uploading big files with Micronaut and Elastic Beanstalk](https://objectcomputing.com/news/2019/02/21/uploading-big-files-micronaut-and-elastic-beanstalk) by [OCI](https://twitter.com/objectcomputing)
 * 2019-02-20 [How to Setup AWS DynamoDB Accelerator (DAX) with Micronaut](https://medium.com/agorapulse-stories/how-to-setup-aws-dynamodb-accelerator-dax-with-micronaut-5b3ade1e3945) by [Vladimír Oraný](https://twitter.com/musketyr)
