@@ -24,6 +24,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Articles and Blog Posts
 
+* 2019-03-27 [Micronaut Mastery: Parse String Value With Kb/Mb/Gb To Number](https://mrhaki.blogspot.com/2019/03/micronaut-mastery-parse-string-value.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
 * 2019-03-24 [Micronaut Groovy with GORM](https://medium.com/@S1lv3rd3m0n/micronaut-groovy-with-gorm-3a2d0b12e86b) by [Kevin Tan](https://twitter.com/S1lv3rd3m0n)
 * 2019-03-22 [Micronaut Mastery: Binding Request Parameters To POJO](https://mrhaki.blogspot.com/2019/03/micronaut-mastery-binding-request.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
 * 2019-03-05 [Building Microservices with Micronaut](http://www.javamagazine.mozaicreader.com/MarchApril2019/#&pageSet=23) by [Jonas Havers](https://twitter.com/JonasHavers)
