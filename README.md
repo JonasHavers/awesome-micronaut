@@ -24,6 +24,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Articles and Blog Posts
 
+* 2019-05-06 [Modularizing with Micronaut Framework](https://kreuzwerker.de/blog/modularizing-with-micronaut-framework) by [Roman Tuchin](https://twitter.com/kreuzwerker)
 * 2019-03-27 [Micronaut Mastery: Parse String Value With Kb/Mb/Gb To Number](https://mrhaki.blogspot.com/2019/03/micronaut-mastery-parse-string-value.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
 * 2019-03-24 [Micronaut Groovy with GORM](https://medium.com/@S1lv3rd3m0n/micronaut-groovy-with-gorm-3a2d0b12e86b) by [Kevin Tan](https://twitter.com/S1lv3rd3m0n)
 * 2019-03-22 [Micronaut Mastery: Binding Request Parameters To POJO](https://mrhaki.blogspot.com/2019/03/micronaut-mastery-binding-request.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
@@ -85,6 +86,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Podcasts
 
+* 2019-03-29 [JavaPubHouse Ep. 82](https://www.javapubhouse.com/2019/03/episode-82-uh-oh-spring-you-got-some-serious-competition-from-micronaut.html) with [Freddy Guime](https://twitter.com/fguime) and [Bob Paulin](https://twitter.com/bobpaulin)
 * 2018-11-22 [Groovy Podcast Ep. 66, S02E16](https://groovypodcast.podbean.com/e/groovy-podcast-ep-66-s02e17/) with [Ken Kousen](https://twitter.com/kenkousen) and [Sergio del Amo](https://twitter.com/sdelamo)
 * 2018-11-06 [Groovy Podcast Ep. 65, S02E15](https://groovypodcast.podbean.com/e/groovy-podcast-ep-65-s02e15/) with [Ken Kousen](https://twitter.com/kenkousen) and [Baruch Sadogursky](https://twitter.com/jbaruch)
 * 2018-09-12 [NFJS: Launching the MicroFuture with Micronaut](http://blog.nofluffjuststuff.com/2018/09/12/podcast-launching-microfuture-micronaut/) with [Jeff Scott Brown](https://twitter.com/jeffscottbrown)
