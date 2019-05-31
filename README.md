@@ -22,6 +22,15 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * Twitter: https://twitter.com/micronautfw/
 * Twitter Hashtag: [#micronautfw](https://twitter.com/hashtag/micronautfw)
 
+# Newsletter 
+
+* [Groovy Calamari](http://groovycalamari.com)
+
+# Podcasts 
+
+* [Groovy Calamari Podcast](https://podcast.groovycalamari.com)
+* [Groovy Podcast](https://groovypodcast.podbean.com)
+
 # Articles and Blog Posts
 
 * 2019-05-06 [Modularizing with Micronaut Framework](https://kreuzwerker.de/blog/modularizing-with-micronaut-framework) by [Roman Tuchin](https://twitter.com/kreuzwerker)
