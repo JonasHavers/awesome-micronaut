@@ -148,6 +148,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://about.me/kevintanhongann"><img src="https://avatars1.githubusercontent.com/u/359537?v=4" width="100px;" alt="Kevin H.A  Tan"/><br /><sub><b>Kevin H.A  Tan</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=kevintanhongann" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://twitter.com/Jaguard"><img src="https://avatars1.githubusercontent.com/u/6412318?v=4" width="100px;" alt="Ciprian Popa"/><br /><sub><b>Ciprian Popa</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=cyparu" title="Documentation">📖</a></td>
     <td align="center"><a href="http://stackoverflow.com/users/5494094/bitsnaps"><img src="https://avatars0.githubusercontent.com/u/1217741?v=4" width="100px;" alt="bitsnaps"/><br /><sub><b>bitsnaps</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=bitsnaps" title="Documentation">📖</a></td>
   </tr>
 </table>
