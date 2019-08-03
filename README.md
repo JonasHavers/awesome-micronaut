@@ -1,4 +1,5 @@
 # Awesome Micronaut [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 A hand-picked and curated list of resources for the [Micronaut framework](http://micronaut.io).
 
@@ -137,3 +138,19 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) by [OCI](https://twitter.com/ObjectComputing)
 * [Micronaut Predator JDBC Example](https://github.com/franz-see/micronaut-predator-jdbc-example) by [Franz Allan Valencia See
 ](https://twitter.com/franz_see)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://about.me/kevintanhongann"><img src="https://avatars1.githubusercontent.com/u/359537?v=4" width="100px;" alt="Kevin H.A  Tan"/><br /><sub><b>Kevin H.A  Tan</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=kevintanhongann" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
