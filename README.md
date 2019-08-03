@@ -1,5 +1,5 @@
 # Awesome Micronaut [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 A hand-picked and curated list of resources for the [Micronaut framework](http://micronaut.io).
 
@@ -148,6 +148,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://about.me/kevintanhongann"><img src="https://avatars1.githubusercontent.com/u/359537?v=4" width="100px;" alt="Kevin H.A  Tan"/><br /><sub><b>Kevin H.A  Tan</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=kevintanhongann" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://mfarache.github.io/mfarache/"><img src="https://avatars0.githubusercontent.com/u/1534556?v=4" width="100px;" alt="Mauricio Farache"/><br /><sub><b>Mauricio Farache</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mfarache" title="Documentation">📖</a></td>
   </tr>
 </table>
 
