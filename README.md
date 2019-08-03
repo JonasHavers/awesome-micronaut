@@ -141,13 +141,14 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
   <tr>
     <td align="center"><a href="http://about.me/kevintanhongann"><img src="https://avatars1.githubusercontent.com/u/359537?v=4" width="100px;" alt="Kevin H.A  Tan"/><br /><sub><b>Kevin H.A  Tan</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=kevintanhongann" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://redlich.net/"><img src="https://avatars2.githubusercontent.com/u/4043260?v=4" width="100px;" alt="Michael Redlich"/><br /><sub><b>Michael Redlich</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mpredli01" title="Documentation">📖</a></td>
     <td align="center"><a href="https://mfarache.github.io/mfarache/"><img src="https://avatars0.githubusercontent.com/u/1534556?v=4" width="100px;" alt="Mauricio Farache"/><br /><sub><b>Mauricio Farache</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mfarache" title="Documentation">📖</a></td>
     <td align="center"><a href="http://twitter.com/Jaguard"><img src="https://avatars1.githubusercontent.com/u/6412318?v=4" width="100px;" alt="Ciprian Popa"/><br /><sub><b>Ciprian Popa</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=cyparu" title="Documentation">📖</a></td>
     <td align="center"><a href="http://stackoverflow.com/users/5494094/bitsnaps"><img src="https://avatars0.githubusercontent.com/u/1217741?v=4" width="100px;" alt="bitsnaps"/><br /><sub><b>bitsnaps</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=bitsnaps" title="Documentation">📖</a></td>
@@ -156,4 +157,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
