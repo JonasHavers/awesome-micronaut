@@ -19,7 +19,6 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * FAQ: https://micronaut.io/faq.html
 * Github: https://github.com/micronaut-projects/
 * Examples: https://github.com/micronaut-projects/micronaut-examples/
-* Micronaut-Predator: https://github.com/micronaut-projects/micronaut-predator
 * Gitter Community: https://gitter.im/micronautfw/
 * Twitter: https://twitter.com/micronautfw/
 * Twitter Hashtag: [#micronautfw](https://twitter.com/hashtag/micronautfw)
