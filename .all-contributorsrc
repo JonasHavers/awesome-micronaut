@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "bitsnaps",
+      "name": "bitsnaps",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1217741?v=4",
+      "profile": "http://stackoverflow.com/users/5494094/bitsnaps",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "kevintanhongann",
       "name": "Kevin H.A  Tan",
       "avatar_url": "https://avatars1.githubusercontent.com/u/359537?v=4",
@@ -15,10 +24,46 @@
       ]
     },
     {
+      "login": "cyparu",
+      "name": "Ciprian Popa",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6412318?v=4",
+      "profile": "http://twitter.com/Jaguard",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mfarache",
+      "name": "Mauricio Farache",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1534556?v=4",
+      "profile": "https://mfarache.github.io/mfarache/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mpredli01",
+      "name": "Michael Redlich",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4043260?v=4",
+      "profile": "https://redlich.net/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "ilopmar",
       "name": "Iván López",
       "avatar_url": "https://avatars3.githubusercontent.com/u/559192?v=4",
       "profile": "https://github.com/ilopmar",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "musketyr",
+      "name": "Vladimir Orany",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/660405?v=4",
+      "profile": "http://vladimir.orany.cz",
       "contributions": [
         "doc"
       ]
