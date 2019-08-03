@@ -147,15 +147,15 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="http://about.me/kevintanhongann"><img src="https://avatars1.githubusercontent.com/u/359537?v=4" width="100px;" alt="Kevin H.A  Tan"/><br /><sub><b>Kevin H.A  Tan</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=kevintanhongann" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://vladimir.orany.cz"><img src="https://avatars1.githubusercontent.com/u/660405?v=4" width="100px;" alt="Vladimir Orany"/><br /><sub><b>Vladimir Orany</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=musketyr" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://redlich.net/"><img src="https://avatars2.githubusercontent.com/u/4043260?v=4" width="100px;" alt="Michael Redlich"/><br /><sub><b>Michael Redlich</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mpredli01" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://mfarache.github.io/mfarache/"><img src="https://avatars0.githubusercontent.com/u/1534556?v=4" width="100px;" alt="Mauricio Farache"/><br /><sub><b>Mauricio Farache</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mfarache" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://twitter.com/Jaguard"><img src="https://avatars1.githubusercontent.com/u/6412318?v=4" width="100px;" alt="Ciprian Popa"/><br /><sub><b>Ciprian Popa</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=cyparu" title="Documentation">📖</a></td>
     <td align="center"><a href="http://stackoverflow.com/users/5494094/bitsnaps"><img src="https://avatars0.githubusercontent.com/u/1217741?v=4" width="100px;" alt="bitsnaps"/><br /><sub><b>bitsnaps</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=bitsnaps" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://about.me/kevintanhongann"><img src="https://avatars1.githubusercontent.com/u/359537?v=4" width="100px;" alt="Kevin H.A  Tan"/><br /><sub><b>Kevin H.A  Tan</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=kevintanhongann" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://twitter.com/Jaguard"><img src="https://avatars1.githubusercontent.com/u/6412318?v=4" width="100px;" alt="Ciprian Popa"/><br /><sub><b>Ciprian Popa</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=cyparu" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://mfarache.github.io/mfarache/"><img src="https://avatars0.githubusercontent.com/u/1534556?v=4" width="100px;" alt="Mauricio Farache"/><br /><sub><b>Mauricio Farache</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mfarache" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://redlich.net/"><img src="https://avatars2.githubusercontent.com/u/4043260?v=4" width="100px;" alt="Michael Redlich"/><br /><sub><b>Michael Redlich</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=mpredli01" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ilopmar"><img src="https://avatars3.githubusercontent.com/u/559192?v=4" width="100px;" alt="Iván López"/><br /><sub><b>Iván López</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=ilopmar" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://vladimir.orany.cz"><img src="https://avatars1.githubusercontent.com/u/660405?v=4" width="100px;" alt="Vladimir Orany"/><br /><sub><b>Vladimir Orany</b></sub></a><br /><a href="https://github.com/JonasHavers/awesome-micronaut/commits?author=musketyr" title="Documentation">📖</a></td>
   </tr>
 </table>
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
