@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kevintanhongann",
+      "name": "Kevin H.A  Tan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/359537?v=4",
+      "profile": "http://about.me/kevintanhongann",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-micronaut",
+  "projectOwner": "JonasHavers",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
