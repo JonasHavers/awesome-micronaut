@@ -97,7 +97,12 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 # Talks and Screencasts
 
 * 2019-11-04 [Micronaut Deep Dive](https://www.youtube.com/watch?v=S5yfTfPeue8) by [Graeme Rocher](https://twitter.com/GraemeRocher) at [Devoxx Belgium 2019](https://devoxx.be/talk/?id=10251)
+* 2019-10-21 [Micronaut Deep Dive](https://www.youtube.com/watch?v=Ga7viEefWO0) by [Graeme Rocher](https://twitter.com/GraemeRocher) at [Voxxed Days Paris 2019](https://voxxeddays.com/microservices/talk/?id=21406)
+* 2019-09-24 [Boot everything? Micronaut – eine Alternative zu Spring Boot?](https://www.youtube.com/watch?v=6TBspk9t9N8) (German) by [Jan Thewes](https://twitter.com/JWThewes) at JCON 2019
+* 2019-06-19 [Introduction to Micronaut](https://www.youtube.com/watch?v=RtjSqRZ_md4) by [Graeme Rocher](https://twitter.com/GraemeRocher) at GOTO Amsterdam 2019
+* 2019-05-12 [Micronaut State of the Union](https://www.youtube.com/watch?v=1NOM9M_FjoI) by [Graeme Rocher](https://twitter.com/GraemeRocher) at Greach 2019
 * 2019-05-10 Cloud-native Microservices with Micronaut by [Iván López](https://twitter.com/ilopmar) at Devoxx UK 2019 ([slides](https://www.slideshare.net/ilopmar/devoxx-uk-2019-cloudnative-microservices-with-micronaut), [code](https://github.com/ilopmar/devoxxuk-2019-micronaut))
+* 2019-05-08 [Micronaut – effiziente und performante Microservices für die Cloud](https://www.youtube.com/watch?v=I8cxXofG69o) (German) by [Falk Sippach](https://twitter.com/sippsack) at [JAX 2019](https://jax.de/serverside-enterprise-java/micronaut-effiziente-und-performante-microservices-fuer-die-cloud/)
 * 2019-04-19 [Micronaut Dragon-Slayer (Spring/Boot) or just another framework](https://www.youtube.com/watch?v=6ZVgyLMrRqs) by [Vladimir Dejanovic](https://twitter.com/VladimirD_42) at Devoxx France 2019 ([code](https://github.com/vladimir-dejanovic/micronaut-vs-spring-boot))
 * 2019-03-30 Micronaut Performance by Miguel Ángel and García Gómez at Greach 2019 ([slides](https://www.slideshare.net/MiguelngelGarcaGmez/greach-19-micronaut-performance))
 * 2019-03-30 [Creating Micronaut Configurations](https://www.youtube.com/watch?v=n0T3vrQ-mbY) by [Iván López](https://twitter.com/ilopmar) at Greach 2019 ([slides](https://www.slideshare.net/ilopmar/greach-2019-creating-micronaut-configurations))
