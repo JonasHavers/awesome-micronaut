@@ -96,6 +96,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Talks and Screencasts
 
+* 2019-11-04 [Micronaut Deep Dive](https://www.youtube.com/watch?v=S5yfTfPeue8) by [Graeme Rocher](https://twitter.com/GraemeRocher) at [Devoxx Belgium 2019](https://devoxx.be/talk/?id=10251)
 * 2019-05-10 Cloud-native Microservices with Micronaut by [Iván López](https://twitter.com/ilopmar) at Devoxx UK 2019 ([slides](https://www.slideshare.net/ilopmar/devoxx-uk-2019-cloudnative-microservices-with-micronaut), [code](https://github.com/ilopmar/devoxxuk-2019-micronaut))
 * 2019-04-19 [Micronaut Dragon-Slayer (Spring/Boot) or just another framework](https://www.youtube.com/watch?v=6ZVgyLMrRqs) by [Vladimir Dejanovic](https://twitter.com/VladimirD_42) at Devoxx France 2019 ([code](https://github.com/vladimir-dejanovic/micronaut-vs-spring-boot))
 * 2019-03-30 Micronaut Performance by Miguel Ángel and García Gómez at Greach 2019 ([slides](https://www.slideshare.net/MiguelngelGarcaGmez/greach-19-micronaut-performance))
@@ -138,9 +139,9 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Micronaut Predator JDBC Example](https://github.com/franz-see/micronaut-predator-jdbc-example) by [Franz Allan Valencia See
 ](https://twitter.com/franz_see)
 
-## Contributors ✨
+## Contributors
 
-Thanks goes to these wonderful people:
+Thanks goes to these wonderful people ✨:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
