@@ -25,6 +25,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 
 # Articles and Blog Posts
 
+* 2022-08-07 [How to write validation messages on Micronaut + Thymeleaf monolith](https://medium.com/@S1lv3rd3m0n/how-to-write-validation-messages-on-micronaut-thymeleaf-monolith-37f3b6bc1568) by [Kevin Tan](https://twitter.com/S1lv3rd3m0n)
 * 2020-07-29 [Micronaut Revisited](https://tbuss.de/posts/2020/2-micronaut-revisited/) by [Thomas Buß](https://twitter.com/_tbuss_)
 * 2019-05-06 [Modularizing with Micronaut Framework](https://kreuzwerker.de/blog/modularizing-with-micronaut-framework) by [Roman Tuchin](https://twitter.com/kreuzwerker)
 * 2019-03-27 [Micronaut Mastery: Parse String Value With Kb/Mb/Gb To Number](https://mrhaki.blogspot.com/2019/03/micronaut-mastery-parse-string-value.html) by [Hubert Klein Ikkink](https://twitter.com/mrhaki)
