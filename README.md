@@ -19,6 +19,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * FAQ: https://micronaut.io/faq.html
 * Github: https://github.com/micronaut-projects/
 * Examples: https://github.com/micronaut-projects/micronaut-examples/
+* [Panopticum](https://github.com/theSharque/panopticum) - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
 * Gitter Community: https://gitter.im/micronautfw/
 * Twitter: https://twitter.com/micronautfw/
 * Twitter Hashtag: [#micronautfw](https://twitter.com/hashtag/micronautfw)
